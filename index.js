@@ -1,1 +1,0 @@
-exports.getNotes = () => "implement me";
